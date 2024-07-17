@@ -1,0 +1,9 @@
+[Crack-CBT]
+- Penambahan menu wali kelas
+- Penambahan fitur di Status Peserta
+- Penambahan Fitur Ujian Ulang
+- Penambahan Fitur Pelanggaran
+- Perubahan sedikit tampilan
+- Perbaikan di versi sebelumnya
+
+Terima Kasih Kepada Allah SWT.
